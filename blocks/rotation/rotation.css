@@ -7,10 +7,10 @@
     }
   } 
 
-  .rotation .header__square-pic{
-    animation: rotation 20s ease infinite;
+  .rotation {
+    animation: rotation 20s linear infinite;
   }
 
-  .rotation .kaufman__triangle{
-    animation: rotation 20s ease infinite;
+  .rotation {
+    animation: rotation 20s linear infinite;
   }
