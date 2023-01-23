@@ -6,4 +6,8 @@
     text-decoration: none;
     color: white;
   }
+
+  .footer__column-link:hover {
+  opacity: 0.5;
+  }
   

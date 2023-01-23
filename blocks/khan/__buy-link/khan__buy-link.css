@@ -3,6 +3,8 @@
     font-size: 30px;
     font-weight: normal;
     padding-left: 48px;
+    text-decoration: none;
+    color: #2f80ed;
   }
   
   .khan__buy-link:hover {
